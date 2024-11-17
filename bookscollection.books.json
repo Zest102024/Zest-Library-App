@@ -1,0 +1,279 @@
+[{
+  "_id": {
+    "$oid": "67369948919bd1660848ef11"
+  },
+  "Category": "Mystery",
+  "Title": "The Girl with the Dragon Tattoo",
+  "Author": "Steig Larsson",
+  "Rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "67369948919bd1660848ef12"
+  },
+  "Category": "Mystery",
+  "Title": "And Then There Were None",
+  "Author": "Agatha Christie",
+  "Rating": 4.28
+},
+{
+  "_id": {
+    "$oid": "67369948919bd1660848ef13"
+  },
+  "Category": "Mystery",
+  "Title": "Angels & Demons",
+  "Author": "Dan Brown",
+  "Rating": 3.94
+},
+{
+  "_id": {
+    "$oid": "67369948919bd1660848ef14"
+  },
+  "Category": "Mystery",
+  "Title": "Rebecca",
+  "Author": "Daphne du Maurier",
+  "Rating": 4.25
+},
+{
+  "_id": {
+    "$oid": "67369948919bd1660848ef15"
+  },
+  "Category": "Mystery",
+  "Title": "In Cold Blood",
+  "Author": "Truman Capote",
+  "Rating": 4.09
+},
+{
+  "_id": {
+    "$oid": "67369948919bd1660848ef16"
+  },
+  "Category": "Mystery",
+  "Title": "The Godfather",
+  "Author": "Mario Puzo",
+  "Rating": 4.39
+},
+{
+  "_id": {
+    "$oid": "67369948919bd1660848ef17"
+  },
+  "Category": "Mystery",
+  "Title": "Gone Girl",
+  "Author": "Gillian Flynn",
+  "Rating": 4.14
+},
+{
+  "_id": {
+    "$oid": "67369948919bd1660848ef18"
+  },
+  "Category": "Mystery",
+  "Title": "Shutter Island",
+  "Author": "Dennis Lehane",
+  "Rating": 4.12
+},
+{
+  "_id": {
+    "$oid": "67369948919bd1660848ef19"
+  },
+  "Category": "Mystery",
+  "Title": "The Lovely Bones",
+  "Author": "Alice Sebold",
+  "Rating": 4.12
+},
+{
+  "_id": {
+    "$oid": "67369948919bd1660848ef1a"
+  },
+  "Category": "Mystery",
+  "Title": "Mystic River",
+  "Author": "Dennis Lehane",
+  "Rating": 4.17
+},
+{
+  "_id": {
+    "$oid": "67369b6d919bd1660848ef1d"
+  },
+  "Category": "Romance",
+  "Title": "Pride and Prejudice",
+  "Author": "Jane Austen",
+  "Rating": 4.29
+},
+{
+  "_id": {
+    "$oid": "67369b6d919bd1660848ef1e"
+  },
+  "Category": "Romance",
+  "Title": "Fifty Shades of Grey",
+  "Author": "E.L. James",
+  "Rating": 3.66
+},
+{
+  "_id": {
+    "$oid": "67369b6d919bd1660848ef1f"
+  },
+  "Category": "Romance",
+  "Title": "Beautiful Disaster",
+  "Author": "Jamie McGuire",
+  "Rating": 4
+},
+{
+  "_id": {
+    "$oid": "67369b6d919bd1660848ef20"
+  },
+  "Category": "Romance",
+  "Title": "Twilight",
+  "Author": "Stephenie Meyer",
+  "Rating": 3.66
+},
+{
+  "_id": {
+    "$oid": "67369b6d919bd1660848ef21"
+  },
+  "Category": "Romance",
+  "Title": "The Notebook",
+  "Author": "Nicholas Sparks",
+  "Rating": 4.15
+},
+{
+  "_id": {
+    "$oid": "67369b6d919bd1660848ef22"
+  },
+  "Category": "Romance",
+  "Title": "Perfect Chemistry",
+  "Author": "Simone Elkeles",
+  "Rating": 4.04
+},
+{
+  "_id": {
+    "$oid": "67369b6d919bd1660848ef23"
+  },
+  "Category": "Romance",
+  "Title": "Outlander",
+  "Author": "Diana Gabaldon",
+  "Rating": 4.26
+},
+{
+  "_id": {
+    "$oid": "67369b6d919bd1660848ef24"
+  },
+  "Category": "Romance",
+  "Title": "Jane Eyre",
+  "Author": "Charlotte Brontë",
+  "Rating": 4.15
+},
+{
+  "_id": {
+    "$oid": "67369b6d919bd1660848ef25"
+  },
+  "Category": "Romance",
+  "Title": "Thoughtless",
+  "Author": "S.C. Stephens",
+  "Rating": 4.08
+},
+{
+  "_id": {
+    "$oid": "67369b6d919bd1660848ef26"
+  },
+  "Category": "Romance",
+  "Title": "Bared to You",
+  "Author": "Sylvia Day",
+  "Rating": 4.14
+},
+{
+  "_id": {
+    "$oid": "67369eda919bd1660848ef28"
+  },
+  "Category": "Comedy",
+  "Title": "The Ultimate Hitchhiker’s Guide to the Galaxy",
+  "Author": "Douglas Adams",
+  "Rating": 4.38
+},
+{
+  "_id": {
+    "$oid": "67369eda919bd1660848ef29"
+  },
+  "Category": "Comedy",
+  "Title": "Catch-22",
+  "Author": "Joseph Heller",
+  "Rating": 3.99
+},
+{
+  "_id": {
+    "$oid": "67369eda919bd1660848ef2a"
+  },
+  "Category": "Comedy",
+  "Title": "The Beasts of Success",
+  "Author": "Jasun Ether",
+  "Rating": 4.25
+},
+{
+  "_id": {
+    "$oid": "67369eda919bd1660848ef2b"
+  },
+  "Category": "Comedy",
+  "Title": "The Beasts of Success",
+  "Author": "Jasun Ether",
+  "Rating": 4.25
+},
+{
+  "_id": {
+    "$oid": "67369eda919bd1660848ef2c"
+  },
+  "Category": "Comedy",
+  "Title": "Fear and Loathing in Las Vegas",
+  "Author": "Hunter S. Thompson",
+  "Rating": 4.07
+},
+{
+  "_id": {
+    "$oid": "67369eda919bd1660848ef2d"
+  },
+  "Category": "Comedy",
+  "Title": "The Princess Bride",
+  "Author": "William Goldmann",
+  "Rating": 4.27
+},
+{
+  "_id": {
+    "$oid": "67369eda919bd1660848ef2e"
+  },
+  "Category": "Comedy",
+  "Title": "A Confederacy of Dunces",
+  "Author": "John Kennedy Toole",
+  "Rating": 3.89
+},
+{
+  "_id": {
+    "$oid": "67369eda919bd1660848ef2f"
+  },
+  "Category": "Comedy",
+  "Title": "Alice’s Adventures in Wonderland",
+  "Author": "Lewis Carroll",
+  "Rating": 4.06
+},
+{
+  "_id": {
+    "$oid": "67369eda919bd1660848ef30"
+  },
+  "Category": "Comedy",
+  "Title": "Candide",
+  "Author": "Voltaire",
+  "Rating": 3.76
+},
+{
+  "_id": {
+    "$oid": "67369eda919bd1660848ef31"
+  },
+  "Category": "Comedy",
+  "Title": "Don Quixote",
+  "Author": "Miguel de Cervantes Saavedra",
+  "Rating": 3.9
+},
+{
+  "_id": {
+    "$oid": "67369eda919bd1660848ef32"
+  },
+  "Category": "Comedy",
+  "Title": "The World According to Garp",
+  "Author": "John Irving",
+  "Rating": 4.1
+}]
